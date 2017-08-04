@@ -1,0 +1,205 @@
+-------- Log Entry --------
+Wed Aug 02 2017 21:59:09 GMT-0400 (Eastern Daylight Time)
+User used getTweets()
+[object Object]
+-------- Log Entry --------
+Wed Aug 02 2017 22:00:20 GMT-0400 (Eastern Daylight Time)
+User used getTweets()
+[object Object]
+-------- Log Entry --------
+Wed Aug 02 2017 22:00:58 GMT-0400 (Eastern Daylight Time)
+User used getTweets()
+[object Object]
+-------- Log Entry --------
+Wed Aug 02 2017 22:01:05 GMT-0400 (Eastern Daylight Time)
+User used getTweets()
+[object Object]
+-------- Log Entry --------
+Wed Aug 02 2017 22:05:51 GMT-0400 (Eastern Daylight Time)
+User used getTweets()
+Tweet 1: At Mon Jul 31 03:52:15 +0000 2017 you tweeted "RT @SportsCenter: AND NEW!
+
+Cris Cyborg racks up her 16th knockout win, becoming the new featherweight champion. https://t.co/ywdDRQ3cuv"
+Tweet 2: At Mon Jul 31 03:52:05 +0000 2017 you tweeted "RT @SportsCenter: ICYMI: Jon "Bones" Jones became the first man to finish Daniel Cormier, reclaiming the light heavyweight title. https://t…"
+-------- Log Entry --------
+Wed Aug 02 2017 22:08:58 GMT-0400 (Eastern Daylight Time)
+User used getSong()
+You searched Spotify for: who let the dogs out
+---As I scoured the intrawebs, here is what I found---
+The song who let the dogs out was performed by Baha Men.
+Baha Men released this song on the album "Who Let The Dogs Out".
+You can listen to who let the dogs out here - null
+-------- Log Entry --------
+Wed Aug 02 2017 22:11:31 GMT-0400 (Eastern Daylight Time)
+User used getMovie()
+You have searched for Goonies and here is what I have found:
+The Goonies (PG) was released in 1985.
+This movie was released in USA in English, Spanish, Cantonese, Italian and featured Sean Astin, Josh Brolin, Jeff Cohen, Corey Feldman.
+A quick plot of the film is:
+  In order to save their home from foreclosure, a group of misfits set out to find a pirate's ancient valuable treasure.
+Critic Ratings for The Goonies:
+  IMDB: 7.8/10
+  Rotten Tomatoes: 70%
+To learn more about this film you can visit 
+  N/A
+=============== LOG ENTRY BEGIN ===============
+Wed Aug 02 2017 23:13:25 GMT-0400 (Eastern Daylight Time)
+ 
+TERMINAL COMMANDS:
+$: C:\Program Files\nodejs\node.exe,C:\Users\kmgul\Desktop\School Work Files\LIRI\liri\twitter.js,mytweets
+ 
+DATA OUTPUT:
+2. Tweet: RT @SportsCenter: ICYMI: Jon "Bones" Jones became the first man to finish Daniel Cormier, reclaiming the light heavyweight title. https://t…
+Created at: Mon Jul 31 03:52:05 +0000 2017 
+1. Tweet: RT @SportsCenter: AND NEW!
+
+Cris Cyborg racks up her 16th knockout win, becoming the new featherweight champion. https://t.co/ywdDRQ3cuv
+Created at: Mon Jul 31 03:52:15 +0000 2017 
+=============== LOG ENTRY END ===============
+ 
+-------- Log Entry --------
+Wed Aug 02 2017 23:15:37 GMT-0400 (Eastern Daylight Time)
+User used getTweets()
+Tweet 1: At Mon Jul 31 03:52:15 +0000 2017 you tweeted "RT @SportsCenter: AND NEW!
+
+Cris Cyborg racks up her 16th knockout win, becoming the new featherweight champion. https://t.co/ywdDRQ3cuv"
+Tweet 2: At Mon Jul 31 03:52:05 +0000 2017 you tweeted "RT @SportsCenter: ICYMI: Jon "Bones" Jones became the first man to finish Daniel Cormier, reclaiming the light heavyweight title. https://t…"
+=============== LOG ENTRY BEGIN ===============
+Wed Aug 02 2017 23:25:41 GMT-0400 (Eastern Daylight Time)
+ 
+TERMINAL COMMANDS:
+$: C:\Program Files\nodejs\node.exe,C:\Users\kmgul\Desktop\School Work Files\LIRI\liri\twitter.js,mytweets
+ 
+DATA OUTPUT:
+1. Tweet: RT @SportsCenter: AND NEW!
+
+Cris Cyborg racks up her 16th knockout win, becoming the new featherweight champion. https://t.co/ywdDRQ3cuv
+Created at: Mon Jul 31 03:52:15 +0000 2017 
+=============== LOG ENTRY END ===============
+ 
+2. Tweet: RT @SportsCenter: ICYMI: Jon "Bones" Jones became the first man to finish Daniel Cormier, reclaiming the light heavyweight title. https://t…
+Created at: Mon Jul 31 03:52:05 +0000 2017 
+===== LOG ENTRY BEGIN =====
+Wed Aug 02 2017 23:27:53 GMT-0400 (Eastern Daylight Time)
+ 
+TERMINAL COMMANDS:
+$: C:\Program Files\nodejs\node.exe,C:\Users\kmgul\Desktop\School Work Files\LIRI\liri\twitter.js,my-tweets
+ 
+DATA OUTPUT:
+1. Tweet: RT @SportsCenter: AND NEW!
+
+Cris Cyborg racks up her 16th knockout win, becoming the new featherweight champion. https://t.co/ywdDRQ3cuv
+Created at: Mon Jul 31 03:52:15 +0000 2017 
+2. Tweet: RT @SportsCenter: ICYMI: Jon "Bones" Jones became the first man to finish Daniel Cormier, reclaiming the light heavyweight title. https://t…
+Created at: Mon Jul 31 03:52:05 +0000 2017 
+===== LOG ENTRY END =====
+ 
+---------- Begin Log Entry ----------
+Wed Aug 02 2017 23:38:19 GMT-0400 (Eastern Daylight Time)
+C:\Program Files\nodejs\node.exe,C:\Users\kmgul\Desktop\School Work Files\LIRI\liri\twitter.js,my-tweets
+ 
+DATA OUTPUT:
+1. Tweet: RT @SportsCenter: AND NEW!
+
+Cris Cyborg racks up her 16th knockout win, becoming the new featherweight champion. https://t.co/ywdDRQ3cuv
+Created at: Mon Jul 31 03:52:15 +0000 2017 
+2. Tweet: RT @SportsCenter: ICYMI: Jon "Bones" Jones became the first man to finish Daniel Cormier, reclaiming the light heavyweight title. https://t…
+Created at: Mon Jul 31 03:52:05 +0000 2017 
+---------- End Log Entry ----------
+ 
+1. Tweet: RT @SportsCenter: AND NEW!
+
+Cris Cyborg racks up her 16th knockout win, becoming the new featherweight champion. https://t.co/ywdDRQ3cuv
+Created at: Mon Jul 31 03:52:15 +0000 2017 
+---------- Begin Log Entry ----------
+Wed Aug 02 2017 23:59:05 GMT-0400 (Eastern Daylight Time)
+C:\Program Files\nodejs\node.exe,C:\Users\kmgul\Desktop\School Work Files\LIRI\liri\twitter.js,my-tweets
+ 
+DATA OUTPUT:
+---------- End Log Entry ----------
+ 
+2. Tweet: RT @SportsCenter: ICYMI: Jon "Bones" Jones became the first man to finish Daniel Cormier, reclaiming the light heavyweight title. https://t…
+Created at: Mon Jul 31 03:52:05 +0000 2017 
+-------- Log Entry --------
+Thu Aug 03 2017 00:00:14 GMT-0400 (Eastern Daylight Time)
+User used getSong()
+You searched Spotify for: car
+---As I scoured the intrawebs, here is what I found---
+The song car was performed by Jonas Blue.
+Jonas Blue released this song on the album "Fast Car (Radio Edit)".
+You can listen to car here - null
+-------- Log Entry --------
+Thu Aug 03 2017 00:02:10 GMT-0400 (Eastern Daylight Time)
+User used getSong()
+You searched Spotify for: car radio
+---As I scoured the intrawebs, here is what I found---
+The song car radio was performed by Jonas Blue.
+Jonas Blue released this song on the album "Fast Car (Radio Edit)".
+You can listen to car radio here - null
+-------- Log Entry --------
+Thu Aug 03 2017 00:18:21 GMT-0400 (Eastern Daylight Time)
+User used getSong()
+You searched Spotify for: help
+---As I scoured the intrawebs, here is what I found---
+The song help was performed by Papa Roach.
+Papa Roach released this song on the album "Help".
+You can listen to help here - https://p.scdn.co/mp3-preview/bc7456ee8dbd65a89a736d0846ab0629d1a046e3?cid=a3521ae604554988bf1bd53b27646f8d
+-------- Log Entry --------
+Thu Aug 03 2017 00:39:21 GMT-0400 (Eastern Daylight Time)
+User used getSong()
+You searched Spotify for: help
+---As I scoured the intrawebs, here is what I found---
+The song help was performed by Papa Roach.
+Papa Roach released this song on the album "Help".
+You can listen to help here - https://p.scdn.co/mp3-preview/bc7456ee8dbd65a89a736d0846ab0629d1a046e3?cid=a3521ae604554988bf1bd53b27646f8d
+-------- Log Entry --------
+Thu Aug 03 2017 00:41:27 GMT-0400 (Eastern Daylight Time)
+User used getSong()
+---------- Begin Log Entry ----------
+Thu Aug 03 2017 18:16:35 GMT-0400 (Eastern Daylight Time)
+C:\Program Files\nodejs\node.exe,C:\Users\kmgul\Desktop\School Work Files\LIRI\liri\twitter.js,my-tweets
+ 
+DATA OUTPUT:
+1. Tweet: RT @SportsCenter: AND NEW!
+
+Cris Cyborg racks up her 16th knockout win, becoming the new featherweight champion. https://t.co/ywdDRQ3cuv
+Created at: Mon Jul 31 03:52:15 +0000 2017 
+2. Tweet: RT @SportsCenter: ICYMI: Jon "Bones" Jones became the first man to finish Daniel Cormier, reclaiming the light heavyweight title. https://t…
+Created at: Mon Jul 31 03:52:05 +0000 2017 
+---------- End Log Entry ----------
+ 
+---------- Log Entry ----------
+Thu Aug 03 2017 23:17:22 GMT-0400 (Eastern Daylight Time)
+C:\Program Files\nodejs\node.exe,C:\Users\kmgul\Desktop\School Work Files\LIRI\liri\spotify.js,spotify-this-song,amber
+ 
+Used getSong()
+---------- Log Entry ----------
+Thu Aug 03 2017 23:19:43 GMT-0400 (Eastern Daylight Time)
+C:\Program Files\nodejs\node.exe,C:\Users\kmgul\Desktop\School Work Files\LIRI\liri\spotify.js,spotify-this-song,amber
+ 
+Used getSong()
+---------- Log Entry ----------
+Thu Aug 03 2017 23:21:56 GMT-0400 (Eastern Daylight Time)
+C:\Program Files\nodejs\node.exe,C:\Users\kmgul\Desktop\School Work Files\LIRI\liri\spotify.js,spotify-this-song,amber
+ 
+Used getSong()
+---------- Log Entry ----------
+Thu Aug 03 2017 23:22:16 GMT-0400 (Eastern Daylight Time)
+C:\Program Files\nodejs\node.exe,C:\Users\kmgul\Desktop\School Work Files\LIRI\liri\spotify,spotify-this-song,amber
+ 
+Used getSong()
+---------- Log Entry ----------
+Thu Aug 03 2017 23:22:27 GMT-0400 (Eastern Daylight Time)
+C:\Program Files\nodejs\node.exe,C:\Users\kmgul\Desktop\School Work Files\LIRI\liri\spotify.js,spotify-this-song,amber
+ 
+Used getSong()
+---------- Log Entry ----------
+Thu Aug 03 2017 23:28:16 GMT-0400 (Eastern Daylight Time)
+C:\Program Files\nodejs\node.exe,C:\Users\kmgul\Desktop\School Work Files\LIRI\liri\spotify.js,spotify-this-song,amber
+ 
+Used getSong()
+---------- Log Entry ----------
+Thu Aug 03 2017 23:31:22 GMT-0400 (Eastern Daylight Time)
+C:\Program Files\nodejs\node.exe,C:\Users\kmgul\Desktop\School Work Files\LIRI\liri\spotify.js,spotify-this-song,amber
+ 
+Used getSong()
