@@ -203,3 +203,81 @@ Thu Aug 03 2017 23:31:22 GMT-0400 (Eastern Daylight Time)
 C:\Program Files\nodejs\node.exe,C:\Users\kmgul\Desktop\School Work Files\LIRI\liri\spotify.js,spotify-this-song,amber
  
 Used getSong()
+---------- Begin Log Entry ----------
+Fri Aug 04 2017 21:08:27 GMT-0400 (Eastern Daylight Time)
+C:\Program Files\nodejs\node.exe,C:\Users\kmgul\Desktop\School Work Files\LIRI\liri\twitter.js,my-tweets
+ 
+DATA OUTPUT:
+1. Tweet: RT @SportsCenter: AND NEW!
+
+Cris Cyborg racks up her 16th knockout win, becoming the new featherweight champion. https://t.co/ywdDRQ3cuv
+Created at: Mon Jul 31 03:52:15 +0000 2017 
+2. Tweet: RT @SportsCenter: ICYMI: Jon "Bones" Jones became the first man to finish Daniel Cormier, reclaiming the light heavyweight title. https://t…
+Created at: Mon Jul 31 03:52:05 +0000 2017 
+---------- End Log Entry ----------
+ 
+---------- Begin Log Entry ----------
+Fri Aug 04 2017 21:35:09 GMT-0400 (Eastern Daylight Time)
+C:\Program Files\nodejs\node.exe,C:\Users\kmgul\Desktop\School Work Files\LIRI\liri\liri.js,my-tweets
+ 
+DATA OUTPUT:
+1. Tweet: RT @SportsCenter: AND NEW!
+
+Cris Cyborg racks up her 16th knockout win, becoming the new featherweight champion. https://t.co/ywdDRQ3cuv
+Created at: Mon Jul 31 03:52:15 +0000 2017 
+2. Tweet: RT @SportsCenter: ICYMI: Jon "Bones" Jones became the first man to finish Daniel Cormier, reclaiming the light heavyweight title. https://t…
+Created at: Mon Jul 31 03:52:05 +0000 2017 
+---------- End Log Entry ----------
+ 
+---------- Begin Log Entry ----------
+Fri Aug 04 2017 21:43:37 GMT-0400 (Eastern Daylight Time)
+C:\Program Files\nodejs\node.exe,C:\Users\kmgul\Desktop\School Work Files\LIRI\liri\liri.js,my-tweets
+ 
+DATA OUTPUT:
+1. Tweet: RT @SportsCenter: AND NEW!
+
+Cris Cyborg racks up her 16th knockout win, becoming the new featherweight champion. https://t.co/ywdDRQ3cuv
+Created at: Mon Jul 31 03:52:15 +0000 2017 
+2. Tweet: RT @SportsCenter: ICYMI: Jon "Bones" Jones became the first man to finish Daniel Cormier, reclaiming the light heavyweight title. https://t…
+Created at: Mon Jul 31 03:52:05 +0000 2017 
+---------- End Log Entry ----------
+ 
+---------- Begin Log Entry ----------
+Fri Aug 04 2017 23:54:39 GMT-0400 (Eastern Daylight Time)
+C:\Program Files\nodejs\node.exe,C:\Users\kmgul\Desktop\School Work Files\LIRI\liri\liri.js,my-tweets
+ 
+DATA OUTPUT:
+1. Tweet: RT @SportsCenter: AND NEW!
+
+Cris Cyborg racks up her 16th knockout win, becoming the new featherweight champion. https://t.co/ywdDRQ3cuv
+Created at: Mon Jul 31 03:52:15 +0000 2017 
+---------- End Log Entry ----------
+ 
+2. Tweet: RT @SportsCenter: ICYMI: Jon "Bones" Jones became the first man to finish Daniel Cormier, reclaiming the light heavyweight title. https://t…
+Created at: Mon Jul 31 03:52:05 +0000 2017 
+---------- Log Entry ----------
+Fri Aug 04 2017 23:54:55 GMT-0400 (Eastern Daylight Time)
+C:\Program Files\nodejs\node.exe,C:\Users\kmgul\Desktop\School Work Files\LIRI\liri\liri.js,spotify,amber
+ 
+Used getSong()
+-------- Log Entry --------
+Sat Aug 05 2017 00:40:46 GMT-0400 (Eastern Daylight Time)
+User used getSong()
+-------- Log Entry --------
+Sat Aug 05 2017 00:44:13 GMT-0400 (Eastern Daylight Time)
+User used getMovie()
+-------- Log Entry --------
+Sat Aug 05 2017 00:44:34 GMT-0400 (Eastern Daylight Time)
+User used getMovie()
+-------- Log Entry --------
+Sat Aug 05 2017 00:48:03 GMT-0400 (Eastern Daylight Time)
+User used getMovie()
+-------- Log Entry --------
+Sat Aug 05 2017 00:48:48 GMT-0400 (Eastern Daylight Time)
+User used getMovie()
+-------- Log Entry --------
+Sat Aug 05 2017 00:49:17 GMT-0400 (Eastern Daylight Time)
+User used getMovie()
+-------- Log Entry --------
+Sat Aug 05 2017 01:03:12 GMT-0400 (Eastern Daylight Time)
+User used getMovie()
