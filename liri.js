@@ -21,6 +21,7 @@ switch (action) {
     case "my-tweets":
     case "twitter":
     case "getTweets":
+    case "tweets":
         myTweets();
         break;
     case "spotify-this-song":
@@ -75,7 +76,7 @@ function myTweets() {
 // spotify function
 
 function getSong(input) {
-    fs.appendFile("log.txt", ("-------- Log Entry --------\n" + Date() + "\n" + "User used getSong()\n"));
+    fs.appendFileSync("log.txt", ("-------- Log Entry --------\n" + Date() + "\n" + "User used getSong()\n"));
     var valType = "track";
     var song = input;
 
